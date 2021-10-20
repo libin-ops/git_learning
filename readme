@@ -1,2 +1,7 @@
 hi,we are learning git!
+<<<<<<< HEAD
 add suibian a lot!
+=======
+hello world!
+this is document! 
+>>>>>>> github/feature/add_git_commands
